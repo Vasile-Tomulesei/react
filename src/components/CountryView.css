@@ -1,0 +1,11 @@
+.container img{
+    width: 200px;
+    height: 130px;
+}
+
+.container {
+    flex: 1;
+    background: white;
+    border-radius: 15px;
+    margin: 20px;
+}

@@ -1,0 +1,15 @@
+.backButton {
+    width: 50px;
+    margin-bottom: 50px;
+}
+
+.CDetailscontainer {
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.CDetailsFlag {
+    max-width: 400px;
+}

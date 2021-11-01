@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    flex-flow: column;
+}
+.countriesContainer {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: azure;
+}
